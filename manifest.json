@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Usage in the world of the subway world of tomo.",
+    "name": "Minecart Improvisation",
+    "uuid":"5e15fe96-6917-4a0c-9d63-f47be1e3d8e5",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "Subway add-on",
+          "type": "data",
+          "uuid": "63c4183c-3585-4b31-9148-8178c2d5782b",
+          "version": [1, 0, 0]
+      }
+    ],
+  "dependencies": [
+    {
+     "uuid":"0182d722-1bea-46db-a2ee-e90d272a5e01",
+      "version":[1,0,0]
+    }
+ ]
+}
