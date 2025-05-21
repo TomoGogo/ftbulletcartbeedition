@@ -5,7 +5,7 @@
     "name": "BulletCart v2.3.3",
     "uuid":"5e15fe96-6917-4a0c-9d63-f47be1e3d8e5",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 0]
+    "min_engine_version": [1, 21, 8]
   },
   "modules":
     [
