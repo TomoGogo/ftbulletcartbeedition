@@ -1,1 +1,1 @@
-function bcengine_inner
+execute as @e[type=minecart] run function bcengine_inner
