@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
     "description": "Unofficial version of FlashTeens' BulletCart datapack",
-    "name": "BulletCart v2.3.3",
+    "name": "BulletCart v1.2(beta)",
     "uuid":"5e15fe96-6917-4a0c-9d63-f47be1e3d8e5",
     "version": [1, 2, 0],
     "min_engine_version": [1, 21, 8]
