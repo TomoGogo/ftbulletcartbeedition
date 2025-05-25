@@ -1,4 +1,4 @@
-tag @e[type=minecart, r=2] add bccart
-tag @e[tag=bccart] add north
-scoreboard players add @e[tag=bccart, r=2] BCNorSou -1
-scoreboard players add @e[tag=bccart, r=2] BCEasWes 0
+tag @e[type=minecart, r=2, c=1] add bccart
+tag @e[tag=bccart, c=1] add north
+scoreboard players add @e[tag=bccart, r=2, c=1] BCNorSou -1
+scoreboard players add @e[tag=bccart, r=2, c=1] BCEasWes 0
