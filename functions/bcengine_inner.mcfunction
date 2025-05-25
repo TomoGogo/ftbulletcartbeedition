@@ -5,4 +5,4 @@ function engine/east
 function engine/south
 function engine/west
 
-function engine/sensor/derail
+function control/sensor/derail
